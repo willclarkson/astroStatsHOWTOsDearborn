@@ -11,5 +11,5 @@ Subdirectories:
 
 **notebooks/** - Jupyter notebooks with the HOWTOs.
 
-**notebooks/html/** - .html renderings of the Jupyter notebooks.
+**notebooks / html/** - .html renderings of the Jupyter notebooks.
 
